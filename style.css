@@ -3,14 +3,4 @@ body
 	background-image:url("intro.jpg");
 }
 
-<style>
-		ul li { 
-			display: inline-block;
-			padding: 50px;
-			border: 50px;	
-		}
-		li {
-			text-align: center;
-			font-size: 35px;
-		}
-	</style>	
+
