@@ -2,3 +2,11 @@ body
 {
 	background-image:url("intro.jpg");
 }
+
+<style>
+		ul p { 
+			display: inline-block;
+			padding: 50px;
+			border: 50px;
+		}
+	</style>	
